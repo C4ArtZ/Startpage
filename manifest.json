@@ -1,0 +1,10 @@
+{
+    "name": "Startpage",
+    "version": "1.0",
+    "description": "Service Dashboard",
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    },
+    "permissions": ["tabs"],
+    "manifest_version": 2
+  }
